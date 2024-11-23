@@ -5,10 +5,6 @@ This project implements a KNN (k-nearest neighbors) algorithm for data classific
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
