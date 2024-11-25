@@ -1,4 +1,4 @@
-# KNN Classifier :
+# KNN Classifier 
 
 This project implements a KNN (k-nearest neighbors) algorithm for data classification. It is written in Python and allows you to predict the class of an element based on its closest neighbors.
 
@@ -10,7 +10,7 @@ This project implements a KNN (k-nearest neighbors) algorithm for data classific
 
 The KNN algorithm is one of the simplest and most effective for classification tasks. This project allows you to use it to classify datasets based on their proximity to other examples.
 
-## Installation
+## Installation :
 
 ### Prerequisites
 - Python 3.x
