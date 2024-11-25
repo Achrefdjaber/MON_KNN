@@ -6,7 +6,7 @@ This project implements a KNN (k-nearest neighbors) algorithm for data classific
 - [Description](#description)
 - [Installation](#installation)
 
-## Description
+## Description :
 
 The KNN algorithm is one of the simplest and most effective for classification tasks. This project allows you to use it to classify datasets based on their proximity to other examples.
 
